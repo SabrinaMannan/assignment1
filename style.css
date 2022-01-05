@@ -1,0 +1,17 @@
+body{
+    font-family: 'Licorice', cursive;
+font-family: 'Nunito', sans-serif;
+margin:0;
+}
+.colored_text{
+    color: Coral;
+}
+#box1{
+    border-left: 7px solid;
+    border-color: SlateBlue;
+    border-image-slice: 1;
+    border-radius: 2px;
+}
+.flexible-container{
+    display: flex;
+}
