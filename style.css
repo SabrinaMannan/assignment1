@@ -79,3 +79,19 @@ h5{
     background-positon: left;
     background-image-margin-top: 10px;
 }
+#title{
+    text-align: center;
+}
+
+footer p{
+    text-align: center;
+   
+    padding:30px;
+}
+
+footer{
+    background-color:black;
+    color:white;
+    width:100%;
+height: 100px;
+}
