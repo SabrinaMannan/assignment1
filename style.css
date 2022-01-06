@@ -25,6 +25,7 @@ h5{
 }
 .flexible-container{
     display: flex;
+    margin-bottom:100px;
 }
 .half{
     width:50%;
@@ -71,4 +72,10 @@ h5{
     display: flex;
     width: 20%;
     padding:5%;
+}
+.third{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-positon: left;
+    background-image-margin-top: 10px;
 }
